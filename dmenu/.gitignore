@@ -1,0 +1,20 @@
+# Ignore object files
+*.o
+
+# Ignore backup files
+*.orig
+*.save
+
+# Ignore temporary files
+*.swp
+*.swo
+*.swn
+
+# Ignore build artifacts
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
