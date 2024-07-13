@@ -1,0 +1,28 @@
+# Ignore temporary files
+*.swp
+*.swo
+*.swn
+
+# Ignore build artifacts
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Ignore backup files
+*.orig
+*.save
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore git-specific files
+.git
+
+# Ignore test binaries or files
+test_*
+
